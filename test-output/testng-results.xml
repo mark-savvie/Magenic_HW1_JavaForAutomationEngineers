@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-18T15:01:27 CST" name="Default suite" finished-at="2021-10-18T15:01:27 CST" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2021-10-18T15:01:27 CST" name="Default test" finished-at="2021-10-18T15:01:27 CST" duration-ms="37">
+      <class name="CalculatorTest">
+        <test-method signature="testDoubleAdd()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testDoubleAdd" finished-at="2021-10-18T15:01:27 CST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDoubleAdd -->
+        <test-method signature="testDoubleMultiply()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testDoubleMultiply" finished-at="2021-10-18T15:01:27 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDoubleMultiply -->
+        <test-method signature="testDoubleSubtract()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testDoubleSubtract" finished-at="2021-10-18T15:01:27 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDoubleSubtract -->
+        <test-method signature="testIntAdd()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testIntAdd" finished-at="2021-10-18T15:01:27 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntAdd -->
+        <test-method signature="testIntMultiply()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testIntMultiply" finished-at="2021-10-18T15:01:27 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntMultiply -->
+        <test-method signature="testIntSubtract()[pri:0, instance:CalculatorTest@6a01e23]" started-at="2021-10-18T15:01:27 CST" name="testIntSubtract" finished-at="2021-10-18T15:01:27 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntSubtract -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
