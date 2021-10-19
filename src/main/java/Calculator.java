@@ -6,6 +6,7 @@
  *      [ ] Run the main method to see what happens
  *      [ ] Run the TestNG tests and make sure they all pass
  *      [ ] Answer the Short Answer question in the HomeworkChecklist.txt
+ *      updated
  */
 public class Calculator {
 
